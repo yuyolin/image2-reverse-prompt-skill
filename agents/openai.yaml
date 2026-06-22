@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image2 Reverse Prompt"
+  short_description: "Prompt-only image-2 reverse prompting"
+  default_prompt: "Use $image2-reverse-prompt to turn each uploaded reference image into a deterministic prompt-only image-2 reverse prompt."
